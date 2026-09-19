@@ -22,7 +22,7 @@ http://localhost:3000/docs
 
 ### 💡 Example Screenshot
 
-![Swagger UI Screenshot](images/swagger-ui.png)
+![Swagger UI Screenshot](images/swagger-ui.jpeg)
 
 Caption:
 
